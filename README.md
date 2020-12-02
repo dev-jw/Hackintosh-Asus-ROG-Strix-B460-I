@@ -1,6 +1,6 @@
 ## ASUS ROG Strix B460-i
 
-![information](https://w-md.imzsy.design/information.png)
+![image-20201202160801867](https://w-md.imzsy.design/image-20201202160801867.png)
 
 ## Hardware
 
