@@ -17,8 +17,8 @@
 
 ## Software
 
-- **OS:** macOS Big Sur 11.0.1 
-- **Bootloader:** OpenCore 0.6.3
+- **OS:** macOS Big Sur 11.6 
+- **Bootloader:** OpenCore 0.7.4
 
 ## BIOS Settings
 
