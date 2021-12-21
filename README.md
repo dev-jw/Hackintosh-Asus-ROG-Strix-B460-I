@@ -11,8 +11,10 @@
 - **CPU:** Intel Core i7 10700
 - **dGPU:** AMD Radeon RX 6600 XT 8 GB
 - **RAM:** Corsair Vengeance RGB PRO 16GB 2x8GB DDR4 3000Mhz
-- **Storage:** Samsung SSD 970 EVO NVMe M.2（500GB）
+- **Storage:** 
+  - Samsung SSD 970 EVO NVMe M.2（500GB）
   - Samsung SSD 860 EVO SATA III（500GB）
+  - WD_BLACK™ SN750 NVMe™ SSD（1T） 
 - **WiFi & Bluetooth:** BCM94352z(DW1560)
 
 ## GPU Performance
@@ -54,12 +56,6 @@
 -  Power Management (Native support)
 -  WiFi & Bluetooth (BCM94352z)
 -  USB
-
-## Issues
-
-### Color banding
-
-Solution: SwitchResX app, change setting from `Billions of colors` to `Millions of colors`
 
 ## Guides & Useful Links
 
