@@ -16,6 +16,11 @@
   - Samsung SSD 860 EVO SATA III（500GB）
   - WD_BLACK™ SN750 NVMe™ SSD（1T） 
 - **WiFi & Bluetooth:** BCM94352z(DW1560)
+- **Water cooling**
+  - NZXT Kraken X53 240mm
+- **Power**
+  - Corsair SF Series SF750
+
 
 ## GPU Performance
 ### Geekbench
